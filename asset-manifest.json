@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c301c951.css",
+    "main.js": "/static/js/main.51215171.js",
+    "static/media/MainPhoto.jpg": "/static/media/MainPhoto.24d5dc552a0224212306.jpg",
+    "static/media/bg.jpg": "/static/media/bg.a0a310c71df64b96808b.jpg",
+    "static/media/GirlScriptIndia.jpg": "/static/media/GirlScriptIndia.919a47e2ccc1357d9fc9.jpg",
+    "static/media/GrowMonks.png": "/static/media/GrowMonks.b5666182909c99d8605f.png",
+    "static/media/AlgoAnalytics.png": "/static/media/AlgoAnalytics.d40cd7bdac8b85c92958.png",
+    "index.html": "/index.html",
+    "main.c301c951.css.map": "/static/css/main.c301c951.css.map",
+    "main.51215171.js.map": "/static/js/main.51215171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c301c951.css",
+    "static/js/main.51215171.js"
+  ]
+}
