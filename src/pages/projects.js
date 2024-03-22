@@ -48,6 +48,18 @@ export default function Experience() {
 
 const experiences = [
   {
+    position: 'Tableau, Data Visuallization, Real-Time data Analysis, Dashboard development',
+    company: 'Market Analysis For Strategic Decision',
+    details: [
+      "Developed and deployed an interactive Tableau dashboard suite for visualizing complex financial data, showcasing expertise in data integration, visualization, and dashboard development. Leveraged real-time data analysis capabilities to enable sector performance tracking and detailed stock market trend analysis.",
+      "Enhanced user experience by redesigning and optimizing a user-centric Tableau dashboard suite, resulting in a 30% increase in efficiency for financial data analysis tasks. Implemented interactive features such as drill-downs and filter options, empowering users to conduct in-depth analysis and make informed investment decisions."
+    ],
+    date: 'February 2024 - March 2024',
+    //img: CP1,
+    //companyUrl: "https://www.veritas.com/"
+
+  },
+  {
     position: 'Alteryx, MS-SQL, Pwer-BI, Tableau',
     company: 'New York City Food Inspection Analysis',
     details: [
@@ -70,6 +82,17 @@ const experiences = [
     date: 'August 2021 - May 2022',
     //img: CP2,
     //companyUrl: 'https://www.algoanalytics.com/'
+  },
+  {
+    position: 'Python, NTLK, VADER, Pandas, Numpy Machine Learning',
+    company: 'Ukraine Conflict Sentiment Analysis',
+    details: [
+      "Developed and orchestrated the training of a sentiment analysis model using NLTK in Python, integrating preprocessing techniques for data cleanliness and VADER for effective sentiment classification, showcasing proficiency in Python, NLTK, and data preprocessing.",
+      "Utilized the trained sentiment analysis model to analyze over 26 million tweets, providing valuable insights into public opinions on the Ukraine-Russia conflict and guiding future enhancements for multilingual sentiment recognition and global sentiment understanding, demonstrating skills in data analysis, interpretation, and guiding model improvements."
+    ],
+    date: 'Apr 2021 - June 2021',
+    //img: CP3,
+    //companyUrl: "https://about.google/"
   },
 
   {
