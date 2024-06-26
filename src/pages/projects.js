@@ -48,25 +48,35 @@ export default function Experience() {
 
 const experiences = [
   {
+    position: 'python, pandas, Google Cloud Platform (GCP), Vertex AI, ML Pipelines',
+    company: 'END-TO-END CHD PREDICTION PIPELINE USING GOOGLE CLOUD AI',
+    details: [
+      "Designed and implemented an end-to-end data processing and machine learning pipeline on Google Cloud Platform's AI Platform Pipelines, ensuring efficient data handling, feature engineering, model training, and evaluation, achieving a model accuracy of 74.60% and an F1 score of 74.77%"
+    ],
+    //date: 'February 2024 - March 2024',
+    //img: CP1,
+    companyUrl: "https://github.com/ShriiiGaikwad/Pipeline"
+
+  },
+  {
     position: 'Tableau, Data Visuallization, Real-Time data Analysis, Dashboard development',
     company: 'Market Analysis For Strategic Decision',
     details: [
       "Developed and deployed an interactive Tableau dashboard suite for visualizing complex financial data, showcasing expertise in data integration, visualization, and dashboard development. Leveraged real-time data analysis capabilities to enable sector performance tracking and detailed stock market trend analysis.",
       "Enhanced user experience by redesigning and optimizing a user-centric Tableau dashboard suite, resulting in a 30% increase in efficiency for financial data analysis tasks. Implemented interactive features such as drill-downs and filter options, empowering users to conduct in-depth analysis and make informed investment decisions."
     ],
-    date: 'February 2024 - March 2024',
+    //date: 'February 2024 - March 2024',
     //img: CP1,
-    //companyUrl: "https://www.veritas.com/"
+    companyUrl: "https://public.tableau.com/app/profile/srigandhrav.gaikwad/viz/MarketAnalysisforStrategicDecision/Dashboard3"
 
   },
   {
-    position: 'Alteryx, MS-SQL, Pwer-BI, Tableau',
-    company: 'New York City Food Inspection Analysis',
+    position: 'Go, git, Gitub',
+    company: 'DineSwipe',
     details: [
-      "Transformed and managed data ingestion of 200k+ records using Alteryx & MS-SQL ensuring data accuracy of 95%. Designed 12+ ETL pipelines for data cleaning and populating fact & dimension tables within the data warehouse",
-      "Created 6 interactive dashboards by sourcing data from Snowflake data warehouse, leveraging Power BI & Tableau"
+      "Developed a Web App that acts as a platform to offers users a convenient way to discover and select cafe or restaurant options for dining.if two users independently select the same cafe or restaurant option, they are automatically matched"
     ],
-    date: 'October 2023 - November 2023',
+    //date: 'October 2023 - November 2023',
     //img: CP1,
     //companyUrl: "https://www.veritas.com/"
 
@@ -79,7 +89,7 @@ const experiences = [
       "Engineered a robust System Design embedding real-time analytics, slashing pollution emergency response time by 50% through refined data structuring and reporting",
       "Architected every integration of software applications into the hardware system, streamlining processes and saving 50+ hours per week in manual data entry",
     ],
-    date: 'August 2021 - May 2022',
+    //date: 'August 2021 - May 2022',
     //img: CP2,
     //companyUrl: 'https://www.algoanalytics.com/'
   },
@@ -90,7 +100,7 @@ const experiences = [
       "Developed and orchestrated the training of a sentiment analysis model using NLTK in Python, integrating preprocessing techniques for data cleanliness and VADER for effective sentiment classification, showcasing proficiency in Python, NLTK, and data preprocessing.",
       "Utilized the trained sentiment analysis model to analyze over 26 million tweets, providing valuable insights into public opinions on the Ukraine-Russia conflict and guiding future enhancements for multilingual sentiment recognition and global sentiment understanding, demonstrating skills in data analysis, interpretation, and guiding model improvements."
     ],
-    date: 'Apr 2021 - June 2021',
+    //date: 'Apr 2021 - June 2021',
     //img: CP3,
     //companyUrl: "https://about.google/"
   },
@@ -102,7 +112,7 @@ const experiences = [
       "Executed data collection and preprocessing activities for an expansive insurance dataset, medical history, and insurance costs, Leading data-driven insights and facilitating effective risk management strategies",
       "Led the project to implement regression models, including Linear Regression and Random Forest, to improve predictive capabilities, leading to a significant 30% increase in customer retention",
     ],
-    date: 'July 2021 - Sept 2021',
+    //date: 'July 2021 - Sept 2021',
     //img: CP2,
     //companyUrl: 'https://www.algoanalytics.com/'
   },

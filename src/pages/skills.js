@@ -43,10 +43,10 @@ const skills = [
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
     skill: 'JavaScript',
   },
-  /*{
+  {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg',
     skill: 'Typescript',
-  },*/
+  },
   {
     img: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
     skill: 'MongoDB',
@@ -124,17 +124,24 @@ const skills = [
   {
     icon: <i class="devicon-storybook-plain colored"></i>,
     skill: 'Storybook',
-  },
-  
-  {
-    icon: <i class="devicon-materialui-plain colored"></i>,
-    skill: 'Material UI',
-  },
-  
-  {
-    icon: <i class="devicon-azure-plain colored"></i>,
-    skill: 'Azure',
   },*/
+  {
+    icon: <i class="devicon-googlecloud-plain"></i>,
+    skill: 'Google Cloud Platform',
+  },
+  {
+    icon: <i class="devicon-docker-plain"></i>,
+    skill: 'Docker',
+  },
+  {
+    icon: <i class="devicon-go-original-wordmark"></i>,
+    skill: 'Go',
+  },
+  
+  {
+    icon: <i class="devicon-jenkins-line"></i>,
+    skill: 'Jenkins',
+  },
   {
     icon: <i class="devicon-php-plain colored"></i>,
     skill: 'PHP',

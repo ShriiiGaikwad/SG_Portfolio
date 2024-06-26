@@ -3,6 +3,7 @@ import CP1 from '../assets/eq_technologic.jpg';
 // import CP2 from '../assets/AlgoAnalytics.png';
 import CP3 from '../assets/openHouse.png';
 import CP4 from '../assets/ABS.png';
+import CP5 from '/Users/srigandhravgaikwad/Personal_Repo/SG_Portfolio/src/assets/stealth.jpg'
 // import CP5 from '../assets/IDBI-Intech.jpg';
 // import CP6 from '../assets/BobbleAI.jpg';
 // import CP7 from '../assets/GrowMonks.png';
@@ -58,6 +59,17 @@ export default function Experience() {
 
 const experiences = [
   {
+    position: 'Software Development Engineer - Intern',
+    company: 'SweetTooth - Stealth Startup',
+    details: [
+      "Actively write and maintain Jenkins scripts to automate and optimize pipeline tasks. Proficiently utilize Jenkins and Docker for continuous integration and continuous deployment(CI/CD), streamlining code deployment processes for an e-commerce platform",
+      "Implementing Google Analytics 4 and managing Google Tag Manager to monitor and analyze e-commerce activity, enhancing site optimization and marketing effectiveness"
+    ],
+    date: 'May 2024 - Present',
+    img: CP5,
+    //companyUrl: 'https://www.algoanalytics.com/'
+  },
+  {
     position: 'Software Engineer In Test',
     company: 'eQ Technologic Pvt. Ltd.',
     details: [
@@ -80,7 +92,7 @@ const experiences = [
     companyUrl: 'https://www.algoanalytics.com/'
   },*/
     {
-    position: 'Software Development Engineer Intern',
+    position: 'Software Development Engineer - Intern',
     company: 'ABS Certifications (TUV AUSTRIA Partner)',
     details: [
      "Actively involved in designing and managing SQL Server databases to support ERP systems, showcasing expertise in data modeling for efficient data storage and retrieval",

@@ -23,7 +23,7 @@ export default function About() {
             
           </div>
           <div className="font-light text-black-400">
-          I am a passionate graduate student pursing Masters in Analytics at the University of Southern California. I will be graduating in May 2025. I am deeply interested in Software Development, Machine Learning. I am actively looking for internship opportunities for summer 2024. I have previous experience of working as a SDET at eQ Technologic Pvt Ltd., Software Developer Intern at ABS Certifications Pvt. Ltd. , Data Engineer at openHouse.
+          I am a passionate graduate student pursing Masters in Analytics at the University of Southern California. I will be graduating in May 2025. I am deeply interested in Software Development, DevOps, Cloud. I am actively looking for internship opportunities for Fall 2024. I have previous experience of working as a SDET at eQ Technologic Pvt Ltd., Software Developer Intern at ABS Certifications Pvt. Ltd. , Data Engineer at openHouse.
           </div>
         </div>
       </div>
