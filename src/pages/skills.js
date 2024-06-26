@@ -142,10 +142,10 @@ const skills = [
     icon: <i class="devicon-jenkins-line"></i>,
     skill: 'Jenkins',
   },
-  {
+  /*{
     icon: <i class="devicon-php-plain colored"></i>,
     skill: 'PHP',
-  },
+  },*/
   // {
   //   icon: '',
   //   skill: 'JWT',
