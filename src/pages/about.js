@@ -44,7 +44,7 @@ export default function About() {
         </div>
         <a
           className="p-2 cursor-pointer rounded-lg relative px-10 w-max flex items-center m-auto space-x-4 border bg-slate-200"
-          href={'https://drive.google.com/file/d/1bxlqlWgnEV4LRoHALqbfVxDERzNtyO7X/view?usp=sharing'}
+          href={'https://docs.google.com/document/d/1hD4I6CfJvO7MQKR2Hc3pH0brdb_-WYNviRbg9Jy0hOU/edit?usp=sharing'}
           target={'_blanck'}
           rel="noreferrer"
         >
