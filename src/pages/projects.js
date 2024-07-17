@@ -1,5 +1,5 @@
 import React from 'react';
-import CP1 from '../assets/Veritas.jpg';
+import CP1 from '../assets/vertexai.jpg';
 import CP2 from '../assets/AlgoAnalytics.png';
 import CP3 from '../assets/Google.jpg';
 import CP4 from '../assets/Briota.jpg';
@@ -22,7 +22,19 @@ export default function Experience() {
         return (
           <div className="w-full shadow-md p-5 rounded-lg mb-10">
             <div className=" grid md:grid-cols-2 gap-4 md:order-2">
-              
+            {/* <div
+                className="w-full h-40 flex items-center justify-center my-auto hover:scale-105 transform transition ease-in cursor-pointer"
+                onClick={() => window.open(exp.companyUrl || window.location, '_blank')}
+              >
+                <img
+                  className="max-h-full max-w-full rounded-md"
+                  src={
+                    exp.img ||
+                    'https://icons.veryicon.com/png/o/miscellaneous/zr_icon/company-23.png'
+                  }
+                  alt=""
+                ></img>
+              </div> */}
               <div className="md:col-span-3 space-y-4 my-auto">
                 <div className="text-lg md:text-2xl text-cyan-500 font-bold">{exp.company}</div>
                 <div className="md:flex justify-between">
@@ -54,7 +66,7 @@ const experiences = [
       "Designed and implemented an end-to-end data processing and machine learning pipeline on Google Cloud Platform's AI Platform Pipelines, ensuring efficient data handling, feature engineering, model training, and evaluation, achieving a model accuracy of 74.60% and an F1 score of 74.77%"
     ],
     //date: 'February 2024 - March 2024',
-    //img: CP1,
+    img: CP1,
     companyUrl: "https://github.com/ShriiiGaikwad/Pipeline"
 
   },

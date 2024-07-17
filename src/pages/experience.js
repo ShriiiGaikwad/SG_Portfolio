@@ -70,7 +70,7 @@ const experiences = [
     //companyUrl: 'https://www.algoanalytics.com/'
   },
   {
-    position: 'Software Engineer In Test',
+    position: 'Quality Assurance Engineer',
     company: 'eQ Technologic Pvt. Ltd.',
     details: [
       "Conducted comprehensive regression testing on new features and updates, ensuring zero negative impact on existing functionalities; reduced post-release bugs by 40% and improved overall product stability",
@@ -131,7 +131,7 @@ const experiences = [
 
   },*/
   {
-    position: 'Data Engineer',
+    position: 'Engineering Intern',
     company: 'openHouse',
     details: [
       "Collaborated with a multidisciplinary team to develop 70% of a feature-rich online education platform catering to teachers and students, leveraging a diverse technology stack",
